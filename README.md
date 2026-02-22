@@ -53,7 +53,7 @@ This tool automates basic security auditing by scanning commonly used service po
 
 ### 1️⃣ Clone the Repository
 
-git clone https://github.com/yourusername/infrastructure-security-scanner.git
+git clone https://github.com/rushikeshgokhe/infrastructure-security-scanner.git
 
 cd infrastructure-security-scanner
 
